@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "910610495146",
+    "firebase_url": "https://flash-chat-b2c02.firebaseio.com",
+    "project_id": "flash-chat-b2c02",
+    "storage_bucket": "flash-chat-b2c02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910610495146:android:1113d985c25067ae3fc2d3",
+        "android_client_info": {
+          "package_name": "co.boaz.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910610495146-57td02bumpbkgo3lub7f6q822apbqctk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdgVITwNUYWUiU8vajyRjqIvSoJTJPpDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910610495146-57td02bumpbkgo3lub7f6q822apbqctk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
